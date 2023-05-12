@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @**Lk0099**
 - 👀 I’m interested in **Artificial Intelligence **
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning with Data science**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on **AIML**
 - 📫 How to reach me **lk3324515@gmail.com**
 
 <!---
